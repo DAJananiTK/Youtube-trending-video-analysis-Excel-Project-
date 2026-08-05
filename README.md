@@ -1,11 +1,11 @@
 <img width="1796" height="1366" alt="dashboard" src="https://github.com/user-attachments/assets/81f2daeb-21e7-4ac7-99dc-757c09d7be99" />
 
 
- # 📊 YouTube Trending Video Analysis Dashboard
+ #  YouTube Trending Video Analysis Dashboard
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 The **YouTube Trending Video Analysis Dashboard** is an Excel-based analytics project that explores the factors influencing video performance, audience engagement, and content reach on YouTube.
 
@@ -13,7 +13,7 @@ Using interactive visualizations and KPI tracking, this dashboard helps uncover 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze video performance across content categories.
 - Identify high-performing geographic markets.
@@ -24,7 +24,7 @@ Using interactive visualizations and KPI tracking, this dashboard helps uncover 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -34,7 +34,7 @@ Using interactive visualizations and KPI tracking, this dashboard helps uncover 
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 | KPI | Value |
 |------|--------|
@@ -46,7 +46,7 @@ Using interactive visualizations and KPI tracking, this dashboard helps uncover 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ✔ KPI Cards for Performance Monitoring
 
@@ -66,30 +66,30 @@ Using interactive visualizations and KPI tracking, this dashboard helps uncover 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-### 🎵 Top Performing Category
+###  Top Performing Category
 Music generated the highest number of views, making it the most impactful content category.
 
-### 🌍 Highest Audience Market
+###  Highest Audience Market
 India contributed the largest share of total views, highlighting its importance for content distribution strategies.
 
-### ⏰ Best Upload Time
+###  Best Upload Time
 Videos published around **6 PM** achieved the highest engagement rates.
 
-### 📈 Trending Impact
+###  Trending Impact
 Trending videos significantly outperformed non-trending videos, demonstrating the power of platform visibility and recommendation algorithms.
 
-### 👍 Audience Engagement
+###  Audience Engagement
 - Vlogs received the highest number of likes.
 - Music and Sports generated the highest comment activity.
 
-### 📅 Seasonal Trends
+###  Seasonal Trends
 May achieved the highest views (18.9B), while July recorded the lowest (16.3B). A 13.5% variation across months highlights the impact of seasonality on content performance.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Prioritize Music-related content to maximize audience reach.
 - Develop localized strategies targeting the Indian market.
@@ -99,7 +99,7 @@ May achieved the highest views (18.9B), while July recorded the lowest (16.3B). 
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This project demonstrates how Microsoft Excel can be used to perform end-to-end data analysis and create interactive dashboards that transform raw data into actionable business insights.
 
@@ -107,10 +107,9 @@ The dashboard enables stakeholders to make informed decisions regarding content 
 
 ---
 
-## 👤 Author
+##  Author
 
-**Janani TK**  
-**Data Analyst Portfolio Project**  
+**Janani TK**   
 **Tools:** Microsoft Excel | Data Analysis | Dashboard Design
 
 
